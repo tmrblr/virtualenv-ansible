@@ -1,5 +1,5 @@
 # virtualenv-ansible
-A simple script to prepare virtualenv for ansible-core installation. Doesn't require sudo privileges.
+A simple script to prepare virtualenv for ansible roles development using molecule. Doesn't require sudo privileges.
 
 # Prerequisites:
 - python3
