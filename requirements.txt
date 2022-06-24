@@ -1,3 +1,4 @@
 ansible-core
-google-auth
 molecule
+docker
+molecule-docker
